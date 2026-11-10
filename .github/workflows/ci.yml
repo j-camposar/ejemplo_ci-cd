@@ -1,7 +1,7 @@
 name : deslpiegue automatico ci/cd
 
 on:
-  puhs: 
+  push: 
     branches: [main]
 
 jobs:
